@@ -9,8 +9,8 @@
     <title>Ejercicios funciones 1</title>
 </head>
 <body>
-    <h1>Funcion suma</h1>
-    <h2><?= sumar(10,20)?></h2>
+    <h1>Funcion potencia</h1>
+    <h2><?= potencia(2,4)?></h2>
     <h1>Funcion saludar</h1>
     <h2><?= samkdiludar("Rocio")?></h2>
     <h1>Funcion swap</h1>
